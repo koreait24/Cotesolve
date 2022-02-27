@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\브루트포스">
+      <UniqueIdentifier>{768fe230-faa0-45e4-8565-98e1913e01c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\이분탐색">
+      <UniqueIdentifier>{09e63629-c6b8-4866-bf87-4ca92407674f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\동적계획법">
+      <UniqueIdentifier>{31666b31-6b2c-47fb-a31c-2d230cc130de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BFS와DFS">
+      <UniqueIdentifier>{50eaa9c6-78cf-46f5-b236-744d75333b9c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백트레킹">
+      <UniqueIdentifier>{b2cce03c-0f90-4eab-8fb5-d94d2675f43f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\우선순위큐">
+      <UniqueIdentifier>{54d31cad-2715-4453-a917-7279becbb913}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\문자열">
+      <UniqueIdentifier>{5ddd8ea9-7b57-442f-a229-dd3f2991648f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="4673_셀프넘버.cpp">
+      <Filter>소스 파일\브루트포스</Filter>
+    </ClCompile>
+    <ClCompile Include="1065_한수.cpp">
+      <Filter>소스 파일\브루트포스</Filter>
+    </ClCompile>
+    <ClCompile Include="1920_수찾기.cpp">
+      <Filter>소스 파일\이분탐색</Filter>
+    </ClCompile>
+    <ClCompile Include="2805_나무자르기.cpp">
+      <Filter>소스 파일\이분탐색</Filter>
+    </ClCompile>
+    <ClCompile Include="1654_랜선자르기.cpp">
+      <Filter>소스 파일\이분탐색</Filter>
+    </ClCompile>
+    <ClCompile Include="1003_피보나치.cpp">
+      <Filter>소스 파일\동적계획법</Filter>
+    </ClCompile>
+    <ClCompile Include="9184_신나는함수실행.cpp">
+      <Filter>소스 파일\동적계획법</Filter>
+    </ClCompile>
+    <ClCompile Include="1904_타일.cpp">
+      <Filter>소스 파일\동적계획법</Filter>
+    </ClCompile>
+    <ClCompile Include="9461_파도반수열.cpp">
+      <Filter>소스 파일\동적계획법</Filter>
+    </ClCompile>
+    <ClCompile Include="1149_RGB거리.cpp">
+      <Filter>소스 파일\동적계획법</Filter>
+    </ClCompile>
+    <ClCompile Include="1260_DFS와BFS.cpp">
+      <Filter>소스 파일\BFS와DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="2606_바이러스.cpp">
+      <Filter>소스 파일\BFS와DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="2667_단지번호붙이기.cpp">
+      <Filter>소스 파일\BFS와DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="1012_유기농배추%28re-test_%29.cpp">
+      <Filter>소스 파일\BFS와DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="15649_N과M-1.cpp">
+      <Filter>소스 파일\백트레킹</Filter>
+    </ClCompile>
+    <ClCompile Include="15650_N과M-2.cpp">
+      <Filter>소스 파일\백트레킹</Filter>
+    </ClCompile>
+    <ClCompile Include="11279_최대힙.cpp">
+      <Filter>소스 파일\우선순위큐</Filter>
+    </ClCompile>
+    <ClCompile Include="1927_최소힙.cpp">
+      <Filter>소스 파일\우선순위큐</Filter>
+    </ClCompile>
+    <ClCompile Include="11286_절댓값힙.cpp">
+      <Filter>소스 파일\우선순위큐</Filter>
+    </ClCompile>
+    <ClCompile Include="1655_가운데를말해요.cpp">
+      <Filter>소스 파일\우선순위큐</Filter>
+    </ClCompile>
+    <ClCompile Include="7576_토마토.cpp">
+      <Filter>소스 파일\BFS와DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="7569_토마토3D.cpp">
+      <Filter>소스 파일\BFS와DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="11654_아스키코드.cpp">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="11720_숫자의합.cpp">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="10809_알파벳찾기.cpp">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="2675_문자열반복.cpp">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="1157_단어공부.cpp">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="2110_공유기설치.cpp">
+      <Filter>소스 파일\이분탐색</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="헤더.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
